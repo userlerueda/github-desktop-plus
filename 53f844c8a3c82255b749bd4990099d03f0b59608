@@ -1,0 +1,29 @@
+app/test/unit/git/worktree-include-test.ts
+  5638762291eaf242 1-165
+app/package.json
+  5638762291eaf242 31
+app/src/lib/git/worktree-include.ts
+  5638762291eaf242 1-146
+app/src/ui/worktrees/add-worktree-dialog.tsx
+  5638762291eaf242 13,75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "53f844c8a3c82255b749bd4990099d03f0b59608",
+  "prompts": {
+    "5638762291eaf242": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "0b80aeac-5185-45d2-94f3-b5587f09e286",
+        "model": "copilot/claude-opus-4.6"
+      },
+      "human_author": "Luis Rueda",
+      "messages": [],
+      "total_additions": 317,
+      "total_deletions": 2,
+      "accepted_lines": 314,
+      "overriden_lines": 0
+    }
+  }
+}
